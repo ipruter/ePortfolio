@@ -20,7 +20,7 @@ An application for performing CRUD operations on a list of tasks replaced a link
 
 Milestone_Three.docx
 
-BST_Upload.zip
+https://github.com/ipruter/ePortfolio/blob/master/BST_Upload.zip
 ### Databases
 An application for performing CRUD operations on a list of contacts had a database added and an NLP feature that allows the user to search for contacts in the database by segments of the contacts first or last name.
 
