@@ -18,7 +18,7 @@ https://github.com/ipruter/ePortfolio/blob/master/Enhancement_One_Upload.zip
 ### Algorithms and Data Structure
 An application for performing CRUD operations on a list of tasks replaced a linked list to a binary tree and with a balancing algorithm to search larger data sets logarithmically.
 
-Milestone_Three.docx
+https://github.com/ipruter/ePortfolio/blob/master/Milestone_Three.docx
 
 https://github.com/ipruter/ePortfolio/blob/master/BST_Upload.zip
 ### Databases
