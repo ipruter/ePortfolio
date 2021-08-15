@@ -12,7 +12,7 @@ https://drive.google.com/drive/u/0/folders/1Mi2ZOdeBmN3MicCCJxB7T0F6MjUgQ9kI?ths
 ### Software Design and Engineering
 An application for performing CRUD operations on a list of appointments is re-engineered from Java to Python where the modules can be incorporated into python projects easier.
 
-Milestone_Two.docx
+https://github.com/ipruter/ePortfolio/blob/master/Milestone_Two.docx
 
 https://github.com/ipruter/ePortfolio/blob/master/Enhancement_One_Upload.zip
 ### Algorithms and Data Structure
