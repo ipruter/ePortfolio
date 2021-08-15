@@ -4,6 +4,7 @@ This portfolio contains artifacts that demonstrate critical computer science ski
 ### Professional Self-Assessment
 I analyze all of the concepts and skills I've picked up from my previous classes and how I incorporated them into my capstone projects. This assessment served not only as an opportunity to reflect on the depth and variety of computer science concepts studied but also how my retention and comprehension of them sets me apart.
 
+Professional Self-Assessment.docx
 ### Code Review
 A final project consisting of three parts is reviewed and critiqued as I've made significant progress since that class. Especially my proficiency in structuring classes and methods, and adherence to best practices has come a long way to the professional standards I hold myself to today.
 
