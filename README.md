@@ -6,9 +6,12 @@ I analyze all of the concepts and skills I've picked up from my previous classes
 
 ### Code Review
 A final project consisting of three parts is reviewed and critiqued as I've made significant progress since that class. Especially my proficiency in structuring classes and methods, and adherence to best practices has come a long way to the professional standards I hold myself to today.
+
 https://drive.google.com/drive/u/0/folders/1Mi2ZOdeBmN3MicCCJxB7T0F6MjUgQ9kI?ths=true
 ### Software Design and Engineering
-An application for performing CRUD operations on a list of appointments is re-engineered from Java to Python where the modules can be incorporated into python projects easier
+An application for performing CRUD operations on a list of appointments is re-engineered from Java to Python where the modules can be incorporated into python projects easier.
+
+Enhancement_One_Upload.zip
 ### Algorithms and Data Structure
 An application for performing CRUD operations on a list of tasks replaced a linked list to a binary tree and with a balancing algorithm to search larger data sets logarithmically.
 
